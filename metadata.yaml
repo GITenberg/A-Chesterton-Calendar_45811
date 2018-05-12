@@ -1,0 +1,31 @@
+_repo: A-Chesterton-Calendar_45811
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45811-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: ''
+gutenberg_issued: '2014-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chesterton, G. K. (Gilbert Keith), 1874-1936 -- Calendars'
+- !lcc 'PR'
+title: "A Chesterton Calendar\r\nCompiled from the writings of 'G.K.C.' both in verse\
+  \ and in prose. With a section apart for the moveable feasts."
+url: http://www.gutenberg.org/ebooks/45811
